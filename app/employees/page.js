@@ -35,9 +35,9 @@ export default function EmployeesPage() {
         },
         {
           id: 3,
-          name: 'ChatGPT Assistant',
-          email: 'gpt@openai.com',
-          role: 'AI Engineer',
+          name: 'Chris Rock',
+          email: 'chrisAi@.com',
+          role: 'Ai Engineer',
           profilePic: '/profilepic.jpg',
         },
       ];
